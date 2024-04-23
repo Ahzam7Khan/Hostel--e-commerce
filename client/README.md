@@ -28,5 +28,3 @@ VITE_SERVER=`Your Backend Server URl`
 VITE_STRIPE_KEY=`Stripe Publishable Key`
 
 _fill each filed with your info respectively_
-
-**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
